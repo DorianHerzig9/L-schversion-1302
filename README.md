@@ -37,9 +37,10 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Die Webseite wurde aufgerufen | Die Schaldfläche "New Game" wurde detätigt. | Das TicTacToe wird gestartet. |
-| 1.2  | Die Webseite wurde aufgerufen |  |         "Lidl erscheint rechts im Fenster"          |
-| 2/3.1  | GUI: Kriterien hinzufügen:   |    Preis     |         -          |
+| 1.1  | Die Webseite wurde aufgerufen | Die Schaldfläche "New Game" wurde betätigt. | Das TicTacToe wird gestartet. |
+| 1.2  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
+| 1.3  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
+| 2.1  | Die Webseite wurde aufgerufen | Die Spielkachel wurde  |         -          |
 | 2/3.2  | GUI: "Gewichtung"            |    3     |        -           |
 | 2/3.3  | GUI: "Preis und 3"             |   "man drückt auf Hinzufügen"      |         "Preis (3) erscheint rechts im Fenster"           |
 | 4.1  |      "2. Fenster mit Tabelle"        |    "man drückt auf Auswerten"     |         "Kriterien und gewichtung werden berechnet und entschtet ein Punktzahlreihe." |
