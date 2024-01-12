@@ -41,11 +41,7 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 1.3  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
 | 2.1  | Die Webseite wurde aufgerufen | Die Spielkachel wurde von einem Spieler makiert. | Der andere andere Spieler ist an der Reihe. |
 | 2.2  | Die Webseite wurde aufgerufen | Letzer Spielkachel wurde gewählt | Das Spiel gibt aus wer gewonnen hat oder ob es ein Unentschieden gab|
-| 2/3.3  | GUI: "Preis und 3"             |   "man drückt auf Hinzufügen"      |         "Preis (3) erscheint rechts im Fenster"           |
-| 4.1  |      "2. Fenster mit Tabelle"        |    "man drückt auf Auswerten"     |         "Kriterien und gewichtung werden berechnet und entschtet ein Punktzahlreihe." |
-| 5.1  |      "2. Fenster mit Tabelle"        |    3 "bei Kriterium Preis und Objekt/Option Lidl, wird 3 geschrieben"     |         -          |
-| 6.1  |      -       |    -     |         -          |
-| 7.1  |      "2. Fenster mit Tabelle"       |    "versucht Gewichtung zu ändern"     |        -        |
+| 3.1  | Die Webseite wurde aufgerufen und es wurde bereits eine Runde gespielt. | Die Schaldfläche "New Game" wurde betätigt. | Das TicTacToe wird neu gestartet. |
 
 ### 1.4 Diagramme
 
