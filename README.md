@@ -28,19 +28,18 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 2    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm eine grafische Benutzeroberfläche besitzt. |
 | 3    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm automatisch erkennt , ob ein Spieler gewonnen hat. |
 | 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel eine Auswahl besitzt um den Startspieler festzulegen. |
-
-| 5    |  Muss               |  Funktional    |  Als User möchte ich, dass das Spiel die Spieler abwechselend an die Reihe nimmt. |
-| 6    |  Können             |  Qualität      |  Als User möchte ich, ein sauber gestaltetes Front-end. |
+| 5    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel die Spieler abwechselend an die Reihe nimmt. |
+| 6    |  Können             |  Qualität      | Als User möchte ich, ein sauber gestaltetes Front-end. |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Die Webseite wurde aufgerufen | Die Schaldfläche "New Game" wurde betätigt. | Das TicTacToe wird gestartet. |
+| 1.1  | Die Webseite wurde aufgerufen | "New Game" | TicTacToe wird gestartet. |
 | 1.2  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
 | 1.3  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
 | 2.1  | Die Webseite wurde aufgerufen | Die Spielkachel wurde von einem Spieler makiert. | Der andere andere Spieler ist an der Reihe. |
-| 2.2  | Die Webseite wurde aufgerufen | Letzer Spielkachel wurde gewählt | Das Spiel gibt aus wer gewonnen hat oder ob es ein Unentschieden gab|
+| 3.2  | Die Webseite wurde aufgerufen | Letzer Spielkachel wurde gewählt | Das Spiel gibt aus wer gewonnen hat oder ob es ein Unentschieden gab|
 | 3.1  | Die Webseite wurde aufgerufen und es wurde bereits eine Runde gespielt. | Die Schaldfläche "New Game" wurde betätigt. | Das TicTacToe wird neu gestartet. |
 
 ### 1.4 Diagramme
@@ -59,12 +58,10 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 2.A  |   22.09.23    | Marek | HTML-Teil; Realiesieren| 25' |
 | 2.B  |   22.09.23    | Lorenzo/Marek | Javascript-Teil; Infomieren | 10' |
 | 2.C  |   22.09.23    | Lorenzo/Marek | Javascript-Teil; Realiesieren | 50' |
-| 3.B  |   29.09.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
+| 3.A  |   29.09.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
 | 4.A  |   29.09.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
 | 4.B  |   29.09.23 / 27.10.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
 | 4.C  |   29.09.23 / 27.10.23    | Dorian | Projekt Abschluss | 20' |
-
-Total: 340' - 1600'
 
 ## 3 Entscheiden
 
@@ -83,16 +80,9 @@ Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung d
 | 2.B  |  22.09.23     |  Lorenzo/Marek         |  45'             |  30-45'                 |
 | 2.C  |  22.09.23     |  Lorenzo         |  15'             |  15'                 |
 | 3.A  |  29.09.23     |  Marek         |  45'             |  60'                 |
-| 3.B  |  29.09.23     |  Marek         |  15'             |  15'                 |
 | 4.A  |  29.09.23 / 27.10.23     |  Cyril/Marek         |  35'             |  45'                 |
 | 4.B  |  29.09.23 / 27.10.23     |  Cyril/Marek         |  ~85'             |  120'                 |
 | 4.C  |  29.09.23 / 27.10.23     |  Cyril         |  35'             |  35'                 |
-| 5.A  |  27.10.23     |  Marek/Lorenzo         |  60'             |  45'                 |
-| 5.B  |  27.10.23     |  Marek         |  35'             |  15'                 |
-| 6.A  |  22.09.23 / 03.10.23     |  Cyril/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
-| 6.B  |  22.09.23 / 03.10.23     |  Cyril/Dorian/Marek/Lorenzo         |  ~1200'             |  ~1200'                 |
-| 7.A  |  27.10.23     |  Marek/Dorian         |  45'             |  55'                 |
-| 7.B  |  27.10.23     |  Marek         |  35'             |  25'                 |
 
 ## 5 Kontrollieren
 
