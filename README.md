@@ -5,7 +5,7 @@ Lorenzo Lai, Dorian Herzig, Cyril Lutziger, Marek von Rogall
 | Datum | Version | Zusammenfassung |
 | ---- | --------------- | ---- |
 | 17.11.2023 | 0.0.1   | Heute haben wir angefangen, TicTacToe zu programmieren.|
-| 24.11.2023 | 0.0.2   | Heute haben wir tatsächlich mit dem programmieren angefangen und konnten schon ein paar Features einbauen. (z.B. Das Raster und Spielerreihenfolge)|
+| 24.11.2023 | 0.0.2   | Heute haben wir mit IPERKA angefangen.|
 | 01.12.2023 | 0.0.3   | Heute haben wir den Grossteil des Codes fertiggestellt und sind fast mit dem Projekt fertig. |   
 | 08.12.2023 | 1.0.0   | Heute haben wir den Code komplet fertiggestellt und fangen mit dem Mahara Portfolioeintrag an. |
 | 15.12.2023 | 1.0.0   | Heute haben wir weiter am Portfolioeintrag gearbeitet. |
