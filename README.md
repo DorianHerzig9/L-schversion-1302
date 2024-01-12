@@ -61,8 +61,8 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 3.B  |   01.12.23    | Marek/Cyril | Implementieren | 120' |
 | 3.C  |   01.12.23    | Cyril/Dorian | Auswerten | 60' |
 | 4.A  |   08.12.23    | Dorian/Marek/Lorenzo | Auswahl Startspieler Informieren | 15'  |
-| 4.B  |   22.12.23    | Marek/Dorian | Implementiern | 60' |
-| 4.C  |   12.01.24    | Dorian/Lorenzo/Cyril | Auswerten | 20' |
+| 4.B  |   08.12.23    | Marek/Dorian | Implementiern | 60' |
+| 4.C  |   08.12.23    | Dorian/Lorenzo/Cyril | Auswerten | 20' |
 | 5.A  |   12.01.24    | Marek/Dorian         | Abwechseln des Spielers informieren| 10'|
 | 5.B  |   12.01.24    | Marek/Cyril         | Implementieren| 30'|
 | 5.C  |   12.01.24    | Marek/Dorian/Lorenzo/Cyril         | Auswerten| 15'|
@@ -77,16 +77,21 @@ Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung d
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  24.11.23  |  Dorian |  25' | 30' |
-| 1.B  |  24.11.23  |  Dorian/Marek | 45' |  40' |
-| 1.C  |  01.12.23  |  Marek |  5' |  10' |
-| 2.A  |  01.12.23  |  Marek |  25' |  30' |
-| 2.B  |  08.12.23  |  Lorenzo/Marek |  10' |  5' |
-| 2.C  |  08.12.23  |  Lorenzo/Marek |  50' |  60' |
-| 3.A  |  08.12.23  |  Cyril/Marek |  10' |  5' |
-| 4.A  |  15.12.23 / 22.12.23  | Cyril/Marek |  30' |  45' |
-| 4.B  |  15.12.23 / 22.12.23  | Cyril/Dorian |  120' |  140' |
-| 4.C  |  12.01.24  |  Dorian |  20' |  25' |
+| 1.A  |   24.11.23    | Dorian | 15' | 15' |
+| 1.B  |   24.11.23    | Dorian/Marek | 45' | ~60' |
+| 1.C  |   24.11.23    | Marek/Cyril/Lorenzo/Dorian | 10' | 20' |
+| 2.A  |   24.11.23    | Cyril/Marek | 10'| 15' |
+| 2.B  |   24.11.23    | Marek/Lorenzo | 60' | 80' |
+| 2.C  |   01.12.23    | Marek/Cyril | 10' | 15' |
+| 3.A  |   01.12.23    | Marek/Lorenzo/Cyril | 45' | ~60' |
+| 3.B  |   01.12.23    | Marek/Cyril | 120' | ~160' |
+| 3.C  |   01.12.23    | Cyril/Dorian | 60' | 60' |
+| 4.A  |   08.12.23    | Dorian/Marek/Lorenzo | 15' | ~25'  |
+| 4.B  |   08.12.23    | Marek/Dorian | 60' | ~100' |
+| 4.C  |   08.12.23    | Dorian/Lorenzo/Cyril | 20' | 25' |
+| 5.A  |   12.01.24    | Marek/Dorian         | 10' | 20'|
+| 5.B  |   12.01.24    | Marek/Cyril         | 30' | ~100'|
+| 5.C  |   12.01.24    | Marek/Dorian/Lorenzo/Cyril | 15' | ~30'|
 
 ## 5 Kontrollieren
 
