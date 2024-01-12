@@ -29,9 +29,8 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 3    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm automatisch erkennt , ob ein Spieler gewonnen hat. |
 | 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel eine Auswahl besitzt um den Startspieler festzulegen. |
 
-| 5X   |  Muss               |  Funktional    |  Als User möchte ich, meine Optionen mit Kriterien selber bewerten, um die beste Analyse zu erreichen. |
+| 5    |  Muss               |  Funktional    |  Als User möchte ich, dass das Spiel die Spieler abwechselend an die Reihe nimmt. |
 | 6    |  Können             |  Qualität      |  Als User möchte ich, ein sauber gestaltetes Front-end. |
-| 7X   |  Können             |  Qualität      |  Als User möchte ich, dass die gewichtung nicht mehr verändert werden kann, nachdem man sie festgelegt hat. |
 
 ### 1.3 Testfälle
 
@@ -40,8 +39,8 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 1.1  | Die Webseite wurde aufgerufen | Die Schaldfläche "New Game" wurde betätigt. | Das TicTacToe wird gestartet. |
 | 1.2  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
 | 1.3  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
-| 2.1  | Die Webseite wurde aufgerufen | Die Spielkachel wurde  |         -          |
-| 2/3.2  | GUI: "Gewichtung"            |    3     |        -           |
+| 2.1  | Die Webseite wurde aufgerufen | Die Spielkachel wurde von einem Spieler makiert. | Der andere andere Spieler ist an der Reihe. |
+| 2.2  | Die Webseite wurde aufgerufen | Letzer Spielkachel wurde gewählt | Das Spiel gibt aus wer gewonnen hat oder ob es ein Unentschieden gab|
 | 2/3.3  | GUI: "Preis und 3"             |   "man drückt auf Hinzufügen"      |         "Preis (3) erscheint rechts im Fenster"           |
 | 4.1  |      "2. Fenster mit Tabelle"        |    "man drückt auf Auswerten"     |         "Kriterien und gewichtung werden berechnet und entschtet ein Punktzahlreihe." |
 | 5.1  |      "2. Fenster mit Tabelle"        |    3 "bei Kriterium Preis und Objekt/Option Lidl, wird 3 geschrieben"     |         -          |
