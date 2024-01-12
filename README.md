@@ -9,16 +9,16 @@ Lorenzo Lai, Dorian Herzig, Cyril Lutziger, Marek von Rogall
 | 01.12.2023 | 0.0.3   | Heute haben wir den Grossteil des Codes fertiggestellt und sind fast mit dem Projekt fertig. |   
 | 08.12.2023 | 1.0.0   | Heute haben wir den Code komplet fertiggestellt und fangen mit dem Mahara Portfolioeintrag an. |
 | 15.12.2023 | 1.0.0   | Heute haben wir weiter am Portfolioeintrag gearbeitet. |
-| 22.12.2023 | 1.0.0   | Heute waren wir schon fast mit allem fertig und haben mehr Pause gemacht |
+| 22.12.2023 | 1.0.0   | Heute waren wir schon fast mit allem fertig und haben mehr Pause gemacht. |
 | 12.01.2024 | 1.0.0   | Wir haben das Projekt abgeschlossen. |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Wir haben ein Tic-Tac-Toe-Spiel in HTML, CSS, Javascript unter Verwendung von Visual Studio entwickelt.
+Wir haben ein Tic-Tac-Toe-Spiel in HTML, CSS und Javascript unter Verwendung von Visual Studio Code entwickelt.
 
-In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es Benutzern ermöglicht, gegeneinander anzutreten. Wir haben uns für die Verwendung von Visual Studio entschieden, da es eine leistungsstarke Entwicklungsumgebung bietet. Unser Ziel war es, eine unterhaltsame und benutzerfreundliche Anwendung zu schaffen, die Menschen dabei unterstützt, das klassische Tic-Tac-Toe-Spiel zu spielen und Spass zu haben.
+In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es Benutzern ermöglicht, gegeneinander anzutreten. Wir haben uns für die Verwendung von Visual Studio Code entschieden, da es eine leistungsstarke Entwicklungsumgebung ist. Unser Ziel war es, eine unterhaltsame und benutzerfreundliche Anwendung zu schaffen, die Menschen dabei unterstützt, das klassische Tic-Tac-Toe-Spiel zu spielen und Spass zu haben.
 
 ### 1.2 User Stories
 
@@ -26,7 +26,7 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss               |  Funktional    | Als User möchte ich, das Programm lokal mit einem Freund spielen. |
 | 2    |  Muss               |  Qualität    | Als User möchte ich, dass das Programm eine grafische Benutzeroberfläche besitzt. |
-| 3    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm automatisch erkennt , ob ein Spieler gewonnen hat. |
+| 3    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm automatisch erkennt, ob ein Spieler gewonnen hat. |
 | 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel eine Auswahl besitzt um den Startspieler festzulegen. |
 | 5    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel die Spieler abwechselend an die Reihe nimmt. |
 | 6    |  Können             |  Qualität      | Als User möchte ich, ein sauber gestaltetes Front-end. |
@@ -40,7 +40,7 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 |3.2 |Aktueller Spieler O: "Niemand kann noch gewinnen" |O |Unentschieden! |
 | 4.1  | Die Webseite wurde aufgerufen | Die Schaltfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
 | 4.2  | Die Webseite wurde aufgerufen | Die Schaltfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
-| 5.1  | Aktueller Spieler X: | X | Aktueller Spieler O: |gestartet. |
+| 5.1  | Aktueller Spieler X: | X | Aktueller Spieler O: |
 
 ### 1.4 Diagramme
 
@@ -51,10 +51,10 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   24.11.23    | Dorian | Lokal spielen infomieren | 15' |
+| 1.A  |   24.11.23    | Dorian | Informieren über lokales Zusammenspielen | 15' |
 | 1.B  |   24.11.23    | Dorian/Marek | Implementieren | 45' |
 | 1.C  |   24.11.23    | Marek/Cyril/Lorenzo/Dorian | Auswerten| 10' |
-| 2.A  |   24.11.23    | Cyril/Marek | Grafische Benutzeroberfläche informieren| 10' |
+| 2.A  |   24.11.23    | Cyril/Marek | Informieren über die implementieren des Spielfeld-Rasters | 10' |
 | 2.B  |   24.11.23    | Marek/Lorenzo | Implementieren | 60' |
 | 2.C  |   01.12.23    | Marek/Cyril | Auswerten | 10' |
 | 3.A  |   01.12.23    | Marek/Lorenzo/Cyril | Sieger erkennen informieren | 45' |
