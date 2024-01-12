@@ -99,14 +99,12 @@ Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung d
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
-| 1.2  |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
-|      |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
-|      |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
-|      |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
-| 4.1  |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
-| 5.1  |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
-| 6.1  |  15.12.2023 |  OK  | Cyril / Marek / Lornzo /Dorian |
+| 1.1  |  24.11.23 |  OK  | Cyril / Marek / Lorenzo /Dorian |
+| 3.1  |  01.12.23 |  OK  | Cyril / Marek / Lorenzo /Dorian |
+| 3.2  |  01.12.23 |  OK  | Cyril / Marek / Lorenzo /Dorian |
+| 4.1  |  08.12.23 |  OK  | Cyril / Marek / Lorenzo /Dorian |
+| 4.2  |  08.12.23 |  OK  | Cyril / Marek / Lorenzo /Dorian |
+| 5.1  |  12.01.24 |  OK  | Cyril / Marek / Lorenzo /Dorian |
 
 Alles funktioniert und ist erfolgreich implementiert worden.
 
