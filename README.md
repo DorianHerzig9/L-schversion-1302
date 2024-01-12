@@ -25,7 +25,7 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Muss               |  Funktional    | Als User möchte ich, das Programm lokal mit einem Freund spielen. |
-| 2    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm eine grafische Benutzeroberfläche besitzt. |
+| 2    |  Muss               |  Qualität    | Als User möchte ich, dass das Programm eine grafische Benutzeroberfläche besitzt. |
 | 3    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm automatisch erkennt , ob ein Spieler gewonnen hat. |
 | 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel eine Auswahl besitzt um den Startspieler festzulegen. |
 | 5    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel die Spieler abwechselend an die Reihe nimmt. |
