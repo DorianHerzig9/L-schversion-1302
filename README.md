@@ -10,7 +10,7 @@ Lorenzo Lai, Dorian Herzig, Cyril Lutziger, Marek von Rogall
 | 08.12.2023 | 1.0.0   | Heute haben wir den Code komplet fertiggestellt und fangen mit dem Mahara Portfolioeintrag an. |
 | 15.12.2023 | 1.0.0   | Heute haben wir weiter am Portfolioeintrag gearbeitet. |
 | 22.12.2023 | 1.0.0   | Heute waren wir schon fast mit allem fertig und haben mehr Pause gemacht |
-| 12.01.2023 | 1.0.0   | Wir haben das Projekt abgeschlossen. |
+| 12.01.2024 | 1.0.0   | Wir haben das Projekt abgeschlossen. |
 
 ## 1 Informieren
 
@@ -52,16 +52,16 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   22.09.23    | Dorian | Infomieren | 25' |
-| 1.B  |   22.09.23    | Dorian/Marek | Infomieren | 45' |
-| 1.C  |   22.09.23    | Marek | HTML-Teil; Infomieren| 5' |
-| 2.A  |   22.09.23    | Marek | HTML-Teil; Realiesieren| 25' |
-| 2.B  |   22.09.23    | Lorenzo/Marek | Javascript-Teil; Infomieren | 10' |
-| 2.C  |   22.09.23    | Lorenzo/Marek | Javascript-Teil; Realiesieren | 50' |
-| 3.A  |   29.09.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
-| 4.A  |   29.09.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
-| 4.B  |   29.09.23 / 27.10.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
-| 4.C  |   29.09.23 / 27.10.23    | Dorian | Projekt Abschluss | 20' |
+| 1.A  |   24.11.23    | Dorian | Infomieren | 25' |
+| 1.B  |   24.11.23    | Dorian/Marek | Infomieren | 45' |
+| 1.C  |   24.11.23    | Marek | HTML-Teil; Infomieren| 5' |
+| 2.A  |   24.11.23    | Marek | HTML-Teil; Realiesieren| 25' |
+| 2.B  |   01.12.23    | Lorenzo/Marek | Javascript-Teil; Infomieren | 10' |
+| 2.C  |   01.12.23    | Lorenzo/Marek | Javascript-Teil; Realiesieren | 50' |
+| 3.A  |   08.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
+| 4.A  |   08.12.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
+| 4.B  |   22.12.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
+| 4.C  |   12.01.2024  | Dorian | Projekt Abschluss | 20' |
 
 ## 3 Entscheiden
 
@@ -73,16 +73,16 @@ Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung d
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  22.09.23     |  Dorian/Marek         |  25'             |  15'                 |
-| 1.B  |  22.09.23     |  Dorian/Marek         |  45'             |  35'                 |
-| 1.C  |  22.09.23     |  Dorian         |  15'             |  5'                 |
-| 2.A  |  22.09.23     |  Lorenzo/Marek         |  15'             |  15'                 |
-| 2.B  |  22.09.23     |  Lorenzo/Marek         |  45'             |  30-45'                 |
-| 2.C  |  22.09.23     |  Lorenzo         |  15'             |  15'                 |
-| 3.A  |  29.09.23     |  Marek         |  45'             |  60'                 |
-| 4.A  |  29.09.23 / 27.10.23     |  Cyril/Marek         |  35'             |  45'                 |
-| 4.B  |  29.09.23 / 27.10.23     |  Cyril/Marek         |  ~85'             |  120'                 |
-| 4.C  |  29.09.23 / 27.10.23     |  Cyril         |  35'             |  35'                 |
+| 1.A  |  22.09.23     |  Dorian |  25' | 15' |
+| 1.B  |  22.09.23     |  Dorian/Marek | 45' |  35' |
+| 1.C  |  22.09.23     |  Marek         |  5' |  5' |
+| 2.A  |  22.09.23     |  Marek         |  25' |  15' |
+| 2.B  |  22.09.23     |  Lorenzo/Marek |  10' |  30-45' |
+| 2.C  |  22.09.23     |  Lorenzo/Marek |  50' |  15' |
+| 3.A  |  29.09.23     |  Cyril/Marek |  10' |  60' |
+| 4.A  |  29.09.23 / 27.10.23     | Cyril/Marek |  30' |  45' |
+| 4.B  |  29.09.23 / 27.10.23     | Cyril/Dorian |  120' |  120' |
+| 4.C  |  29.09.23 / 27.10.23     |  Dorian |  20' |  35' |
 
 ## 5 Kontrollieren
 
