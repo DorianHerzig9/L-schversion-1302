@@ -73,18 +73,41 @@ Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung d
 
 ## 4 Realisieren
 
+## 2 Planen
+
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| ---- | ----- | --------- | ------------ | ------------- |
+| 1.A  |   24.11.23    | Dorian | Infomieren | 25' |
+| 1.B  |   24.11.23    | Dorian/Marek | Infomieren | 45' |
+| 1.C  |   24.11.23    | Marek | HTML-Teil; Infomieren| 5' |
+| 2.A  |   24.11.23    | Marek | HTML-Teil; Realiesieren| 25' |
+| 2.B  |   01.12.23    | Lorenzo/Marek | Javascript-Teil; Infomieren | 10' |
+| 2.C  |   01.12.23    | Lorenzo/Marek | Javascript-Teil; Realiesieren | 50' |
+| 3.A  |   08.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
+| 4.A  |   08.12.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
+| 4.B  |   22.12.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
+| 4.C  |   12.01.24  | Dorian | Projekt Abschluss | 20' |
+
+## 3 Entscheiden
+
+Wir haben uns für die folgenden User Stories im Zusammenhang mit der Spiellogik entschieden, da sie sowohl für die Benutzererfahrung als auch für unsere Entwicklungsziele sinnvoll sind. Als Beispiel nehmen wir die Spiellogik: Diese wurde so implementiert, dass das Spiel reibungslos abläuft und die Regeln von Tic-Tac-Toe korrekt eingehalten werden. Eine klare und zuverlässige Spiellogik sorgt dafür, dass die Benutzer eine konsistente und unterhaltsame Spielerfahrung haben.
+
+Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung dar, da die korrekte Handhabung von Spielerzügen, Gewinnbedingungen und Unentschieden eine präzise Umsetzung erforderte. Durch eine sorgfältige Entwicklung haben wir sicherstellt, dass das Spiel fair und verständlich ist, wodurch die Nutzerfreundlichkeit und Zufriedenheit maximiert werden.
+
+## 4 Realisieren
+
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  22.09.23     |  Dorian |  25' | 15' |
-| 1.B  |  22.09.23     |  Dorian/Marek | 45' |  35' |
-| 1.C  |  22.09.23     |  Marek         |  5' |  5' |
-| 2.A  |  22.09.23     |  Marek         |  25' |  15' |
-| 2.B  |  22.09.23     |  Lorenzo/Marek |  10' |  30-45' |
-| 2.C  |  22.09.23     |  Lorenzo/Marek |  50' |  15' |
-| 3.A  |  29.09.23     |  Cyril/Marek |  10' |  60' |
-| 4.A  |  29.09.23 / 27.10.23     | Cyril/Marek |  30' |  45' |
-| 4.B  |  29.09.23 / 27.10.23     | Cyril/Dorian |  120' |  120' |
-| 4.C  |  29.09.23 / 27.10.23     |  Dorian |  20' |  35' |
+| 1.A  |  24.11.23  |  Dorian |  25' | 30' |
+| 1.B  |  24.11.23  |  Dorian/Marek | 45' |  40' |
+| 1.C  |  01.12.23  |  Marek |  5' |  10' |
+| 2.A  |  01.12.23  |  Marek |  25' |  30' |
+| 2.B  |  08.12.23  |  Lorenzo/Marek |  10' |  5' |
+| 2.C  |  08.12.23  |  Lorenzo/Marek |  50' |  60' |
+| 3.A  |  08.12.23  |  Cyril/Marek |  10' |  5' |
+| 4.A  |  15.12.23 / 22.12.23  | Cyril/Marek |  30' |  45' |
+| 4.B  |  15.12.23 / 22.12.23  | Cyril/Dorian |  120' |  140' |
+| 4.C  |  12.01.24  |  Dorian |  20' |  25' |
 
 ## 5 Kontrollieren
 
