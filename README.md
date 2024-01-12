@@ -38,8 +38,8 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 1.1  | Die Webseite wurde aufgerufen | "New Game" | TicTacToe wird gestartet. |
 |3.1 |Aktueller Spieler O: "Spieler O kann diagonal gewinnen"|O |Spieler O hat gewonnen |
 |3.2 |Aktueller Spieler O: "Niemand kann noch gewinnen" |O |Unentschieden! |
-| 4.1  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
-| 4.2  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
+| 4.1  | Die Webseite wurde aufgerufen | Die Schaltfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
+| 4.2  | Die Webseite wurde aufgerufen | Die Schaltfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
 | 5.1  | Aktueller Spieler X: | X | Aktueller Spieler O: |gestartet. |
 
 ### 1.4 Diagramme
@@ -52,18 +52,21 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   24.11.23    | Dorian | Lokal spielen infomieren | 25' |
+| 1.A  |   24.11.23    | Dorian | Lokal spielen infomieren | 15' |
 | 1.B  |   24.11.23    | Dorian/Marek | Implementieren | 45' |
-| 1.C  |   24.11.23    | Marek/Cyrill/Lorenzo/Dorian | Auswerten| 5' |
-| 2.A  |   24.11.23    | Cyrill/Marek | Grafische Benutzeroberfläche informieren| 25' |
-| 2.B  |   24.11.23    | Lorenzo/Marek | Implementieren | 10' |
-| 2.C  |   01.12.23    | Lorenzo/Marek | Javascript-Teil; Realiesieren | 50' |
-| 3.A  |   01.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
-| 3.B  |   01.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
-| 3.C  |   01.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
-| 4.A  |   08.12.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
-| 4.B  |   22.12.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
-| 4.C  |   12.01.24  | Dorian | Projekt Abschluss | 20' |
+| 1.C  |   24.11.23    | Marek/Cyril/Lorenzo/Dorian | Auswerten| 10' |
+| 2.A  |   24.11.23    | Cyril/Marek | Grafische Benutzeroberfläche informieren| 10' |
+| 2.B  |   24.11.23    | Marek/Lorenzo | Implementieren | 60' |
+| 2.C  |   01.12.23    | Marek/Cyril | Auswerten | 10' |
+| 3.A  |   01.12.23    | Marek/Lorenzo/Cyril | Sieger erkennen informieren | 45' |
+| 3.B  |   01.12.23    | Marek/Cyril | Implementieren | 120' |
+| 3.C  |   01.12.23    | Cyril/Dorian | Auswerten | 60' |
+| 4.A  |   08.12.23    | Dorian/Marek/Lorenzo | Auswahl Startspieler Informieren | 15'  |
+| 4.B  |   22.12.23    | Marek/Dorian | Implementiern | 60' |
+| 4.C  |   12.01.24    | Dorian/Lorenzo/Cyril | Auswerten | 20' |
+| 5.A  |   12.01.24    | Marek/Dorian         | Abwechseln des Spielers informieren| 10'|
+| 5.B  |   12.01.24    | Marek/Cyril         | Implementieren| 30'|
+| 5.C  |   12.01.24    | Marek/Dorian/Lorenzo/Cyril         | Auswerten| 15'|
 
 ## 3 Entscheiden
 
