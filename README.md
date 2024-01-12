@@ -36,11 +36,11 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Die Webseite wurde aufgerufen | "New Game" | TicTacToe wird gestartet. |
-| 1.2  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
-| 1.3  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
-| 2.1  | Die Webseite wurde aufgerufen | Die Spielkachel wurde von einem Spieler makiert. | Der andere andere Spieler ist an der Reihe. |
-| 3.2  | Die Webseite wurde aufgerufen | Letzer Spielkachel wurde gewählt | Das Spiel gibt aus wer gewonnen hat oder ob es ein Unentschieden gab|
-| 3.1  | Die Webseite wurde aufgerufen und es wurde bereits eine Runde gespielt. | Die Schaldfläche "New Game" wurde betätigt. | Das TicTacToe wird neu gestartet. |
+|3.1 |Aktueller Spieler O: "Spieler O kann diagonal gewinnen"|O |Spieler O hat gewonnen |
+|3.2 |Aktueller Spieler O: "Niemand kann noch gewinnen" |O |Unentschieden! |
+| 4.1  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player X" wurde betätigt. | Player X begint mit dem Spiel. |
+| 4.2  | Die Webseite wurde aufgerufen | Die Schaldfläche "Player O" wurde betätigt. | Player O begint mit dem Spiel. |
+| 5.1  | Aktueller Spieler X: | X | Aktueller Spieler O: |gestartet. |
 
 ### 1.4 Diagramme
 
