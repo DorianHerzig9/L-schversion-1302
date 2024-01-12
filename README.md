@@ -69,9 +69,9 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 
 ## 3 Entscheiden
 
-Wir haben uns für die folgenden User Stories im Zusammenhang mit der Spiellogik entschieden, da sie sowohl für die Benutzererfahrung als auch für unsere Entwicklungsziele sinnvoll sind. Als Beispiel nehmen wir die Spiellogik: Diese wurde so implementiert, dass das Spiel reibungslos abläuft und die Regeln von Tic-Tac-Toe korrekt eingehalten werden. Eine klare und zuverlässige Spiellogik sorgt dafür, dass die Benutzer eine konsistente und unterhaltsame Spielerfahrung haben.
+Wir haben uns für die folgenden User Storys im Zusammenhang mit der Spiellogik entschieden, da sie sowohl für die Benutzererfahrung als auch für unsere Entwicklungsziele sinnvoll sind. Als Beispiel nehmen wir die Spiellogik: Diese wurde so implementiert, dass das Spiel reibungslos abläuft und die Regeln von Tic-Tac-Toe korrekt eingehalten werden. Eine klare und zuverlässige Spiellogik sorgt dafür, dass die Benutzer eine konsistente und unterhaltsame Spielerfahrung haben.
 
-Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung dar, da die korrekte Handhabung von Spielerzügen, Gewinnbedingungen und Unentschieden eine präzise Umsetzung erforderte. Durch eine sorgfältige Entwicklung haben wir sicherstellt, dass das Spiel fair und verständlich ist, wodurch die Nutzerfreundlichkeit und Zufriedenheit maximiert werden.
+Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung dar, da die korrekte Handhabung von Spielerzügen, Gewinnbedingungen und Unentschieden eine präzise Umsetzung erforderte. Durch eine sorgfältige Entwicklung haben wir sichergestellt, dass das Spiel fair und verständlich ist, wodurch die Nutzerfreundlichkeit und Zufriedenheit maximiert werden.
 
 ## 4 Realisieren
 
@@ -111,7 +111,7 @@ Alles funktioniert und ist erfolgreich implementiert worden.
 ## 6 Auswerten
 
 Was lief gut in unserem Projekt?
-Wir konnten alles ziemlich schnell und nach Plan erledigen. Es gab keine wirklichen Schwierichkeiten. Was gut lief, war das schnelle und intensieve Arbeiten am Projekt.
+Wir konnten alles ziemlich schnell und nach Plan erledigen. Es gab keine wirklichen Schwierigkeiten. Was gut lief, war das schnelle und intensive Arbeiten am Projekt.
 
 Was lief nicht gut in unserem Projekt?
-Wir konnten das Projekt ohne schwerliegenden Problemen abschliessen.
+Wir konnten das Projekt ohne schwerwiegende Probleme abschliessen.
