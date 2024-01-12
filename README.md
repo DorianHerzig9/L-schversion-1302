@@ -45,7 +45,7 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 ### 1.4 Diagramme
 
 <img src="https://github.com/DorianHerzig9/L-schversion-1302/assets/110893394/30df35fa-1c83-4e29-b36d-032fc83a6867" width=30% height=30%>
-<img src="https://github.com/DorianHerzig9/L-schversion-1302/assets/110893288/df0b1e8b-b7d3-4c6e-b8de-cbad52387336" width=52% height=52%>
+<img src="https://github.com/DorianHerzig9/L-schversion-1302/assets/110893288/df0b1e8b-b7d3-4c6e-b8de-cbad52387336" width=51% height=51%>
 
 ## 2 Planen
 
