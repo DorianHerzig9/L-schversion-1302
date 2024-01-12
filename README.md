@@ -49,34 +49,28 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 ![HatSpielerGewonnen(AktuellerSpieler)](https://github.com/DorianHerzig9/L-schversion-1302/assets/110893394/14b2a889-4093-4bd5-850a-4849812d37f5)
 
 
-## 2 Plan
-en
+## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   22.09.23    |     Dorian      |      Informieren auf Stackoverflow        |       25'        |
-| 1.B  |   22.09.23    |    Dorian/Marek       |      Realisierung der Optionen/Objekten        |        45'       |
-| 1.C  |   22.09.23    |    Marek       |     Implementierung des Features         |       15'        |
-| 2.A  |   22.09.23    |    Marek       |      Informieren auf Stackoverflow         |       15'        |
-| 2.B  |   22.09.23    |    Lorenzo/Marek       |       Realisierung der Kriterien       |      45'         |
-| 2.C  |   22.09.23    |    Lorenzo/Marek       |       Implementierung des Features       |       15'        |
-| 3.A  |   29.09.23    |     Marek/Cyril      |       Realisierung der Gewichtung       |       45'        |
-| 3.B  |   29.09.23    |     Marek/Cyril      |      Implementierung des Features        |       15'        |
-| 4.A  |   29.09.23 / 27.10.23    |     Cyril/Marek      |       Informieren aus verschiedenen Internet Quellen      |       35'        |
-| 4.B  |   29.09.23 / 27.10.23    |     Cyril/Marek      |       Realisierung der Berechnung und Punktzahl       |       ~85'        |
-| 4.C  |   29.09.23 / 27.10.23    |     Cyril      |       Implementierung des Features       |       35'        |
-| 5.A  |   27.10.23    |     Marek/Lorenzo      |       Realisierung der Bewertung       |       60'        |
-| 5.B  |   27.10.23    |     Marek       |       Implementierung des Features       |       35'        |
-| 6.A  |   22.09.23 / 03.10.23    |     Cyril/Dorian/Marek/Lorenzo      |      Verbesserung des GUIs        |       ~1200'        |
-| 6.B  |   22.09.23 / 03.10.23    |     Cyril/Dorian/Marek/Lorenzo      |      Richtige Implementierung        |       ~1200'        |
-| 7.A  |   27.10.23    |     Dorian      |       Realisierung des Fehlerbehebungs       |       45'        |
-| 7.B  |   27.10.23    |     Dorian      |       Implementierung des Features       |       35'        |
+| 1.A  |   22.09.23    | Dorian | Infomieren | 25' |
+| 1.B  |   22.09.23    | Dorian/Marek | Infomieren | 45' |
+| 1.C  |   22.09.23    | Marek | HTML-Teil; Infomieren| 5' |
+| 2.A  |   22.09.23    | Marek | HTML-Teil; Realiesieren| 25' |
+| 2.B  |   22.09.23    | Lorenzo/Marek | Javascript-Teil; Infomieren | 10' |
+| 2.C  |   22.09.23    | Lorenzo/Marek | Javascript-Teil; Realiesieren | 50' |
+| 3.B  |   29.09.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
+| 4.A  |   29.09.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
+| 4.B  |   29.09.23 / 27.10.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
+| 4.C  |   29.09.23 / 27.10.23    | Dorian | Projekt Abschluss | 20' |
 
-Total: ~1200' - 1600'
+Total: 340' - 1600'
 
 ## 3 Entscheiden
 
-Wir haben uns für diese User Stories entschieden, weil sie sowohl für den Benutzer als auch für uns am sinnvollsten sind. Als Beispiel nehmen wir die GUI: Diese wurde so gestaltet, dass der Benutzer unser Programm problemlos verwenden kann. Je weniger Zeit man benötigt, um etwas zu verstehen, desto geringer wird die Wahrscheinlichkeit von Fehlern. Die Gestaltung der GUI war jedoch keine einfache Aufgabe.
+Wir haben uns für die folgenden User Stories im Zusammenhang mit der Spiellogik entschieden, da sie sowohl für die Benutzererfahrung als auch für unsere Entwicklungsziele sinnvoll sind. Als Beispiel nehmen wir die Spiellogik: Diese wurde so implementiert, dass das Spiel reibungslos abläuft und die Regeln von Tic-Tac-Toe korrekt eingehalten werden. Eine klare und zuverlässige Spiellogik sorgt dafür, dass die Benutzer eine konsistente und unterhaltsame Spielerfahrung haben.
+
+Die Implementierung der Spiellogik stellte eine anspruchsvolle Herausforderung dar, da die korrekte Handhabung von Spielerzügen, Gewinnbedingungen und Unentschieden eine präzise Umsetzung erforderte. Durch eine sorgfältige Entwicklung haben wir sicherstellt, dass das Spiel fair und verständlich ist, wodurch die Nutzerfreundlichkeit und Zufriedenheit maximiert werden.
 
 ## 4 Realisieren
 
@@ -121,6 +115,7 @@ Alles funktioniert und ist erfolgreich implementiert worden.
 ## 6 Auswerten
 
 Was lief gut in unserem Projekt?
-Wir konnten alles ziemlich schnell und nach Plan erledigen. Es gab ein paar Schwierigkeiten mit WinForms, aber wir haben es trotzdem geschafft. Was ziemlich gut lief, war die Zusammenarbeit und die Kommunikation.
+Wir konnten alles ziemlich schnell und nach Plan erledigen. Es gab keine wirklichen Schwierichkeiten. Was gut lief, war das schnelle und intensieve Arbeiten am Projekt.
 
 Was lief nicht gut in unserem Projekt?
+Wir konnten das Projekt ohne schwerliegenden Problemen abschliessen.
