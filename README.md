@@ -7,37 +7,38 @@ Lorenzo Lai, Dorian Herzig, Cyril Lutziger, Marek von Rogall
 | 17.11.2023 | 0.0.1   | Heute haben wir angefangen, TicTacToe zu programmieren.|
 | 24.11.2023 | 0.0.2   | Heute haben wir tatsächlich mit dem programmieren angefangen und konnten schon ein paar Features einbauen. (z.B. Das Raster und Spielerreihenfolge)|
 | 01.12.2023 | 0.0.3   | Heute haben wir den Grossteil des Codes fertiggestellt und sind fast mit dem Projekt fertig. |   
-| 08.12.2023 | 0.1.0   | Heute haben wir  |
-| 15.12.2023 | 1.0.0   |  |
-| 22.12.2023 | 1.0.0   | |
+| 08.12.2023 | 1.0.0   | Heute haben wir den Code komplet fertiggestellt und fangen mit dem Mahara Portfolioeintrag an. |
+| 15.12.2023 | 1.0.0   | Heute haben wir weiter am Portfolioeintrag gearbeitet. |
+| 22.12.2023 | 1.0.0   | Heute waren wir schon fast mit allem fertig und haben mehr Pause gemacht |
 | 12.01.2023 | 1.0.0   | Wir haben das Projekt abgeschlossen. |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-Wir haben auf c# / WinForms eine Nutzwertanalyse kreiert.
+Wir haben ein Tic-Tac-Toe-Spiel in HTML, CSS, Javascript unter Verwendung von Visual Studio entwickelt.
 
-In diesem Projekt wollten wir eine Nutzwertanalyse erstellen, die verschiedene Entscheidungen zusammenführt und vergleicht. Wir haben uns für WinForms entschieden, da man damit eine einfache und benutzerfreundliche GUI erstellen kann. Dieses Projekt sollte als Hilfe für Personen oder Unternehmen dienen, die verschiedene Optionen oder Entscheidungen abwägen wollen, um das beste Ergebnis zu erzielen.
+In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es Benutzern ermöglicht, gegeneinander anzutreten. Wir haben uns für die Verwendung von Visual Studio entschieden, da es eine leistungsstarke Entwicklungsumgebung bietet. Unser Ziel war es, eine unterhaltsame und benutzerfreundliche Anwendung zu schaffen, die Menschen dabei unterstützt, das klassische Tic-Tac-Toe-Spiel zu spielen und Spass zu haben.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Optionen hinzufügen können, damit ich meine verschiedene Optionen vergleichen kann. |
-| 2    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Kriterien hinzufügen können, damit ich sie danach bewerten und gewichten kann. |
-| 3    |  Muss               |  Funktional    | Als User möchte ich, verschiedene Gewichtungen zu den Kriterien geben, um so wichtige Kriterien hervorzuheben. |
-| 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm die verschiedene Optionen und Kriterien, so wie die Gewichtung berücksichtigt und mir eine korrekte Berechnung zurückgibt. |
-| 5    |  Muss               |  Funktional    |  Als User möchte ich, meine Optionen mit Kriterien selber bewerten, um die beste Analyse zu erreichen.                                 |
-| 6    |  Können             |  Qualität      |  Als User möchte ich, ein schönes und simples GUI verwenden können. |
-| 7    |  Können             |  Qualität      |  Als User möchte ich, dass die gewichtung nicht mehr verändert werden kann, nachdem man sie festgelegt hat. |
+| 1    |  Muss               |  Funktional    | Als User möchte ich, das Programm lokal mit einem Freund spielen. |
+| 2    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm eine grafische Benutzeroberfläche besitzt. |
+| 3    |  Muss               |  Funktional    | Als User möchte ich, dass das Programm automatisch erkennt , ob ein Spieler gewonnen hat. |
+| 4    |  Muss               |  Funktional    | Als User möchte ich, dass das Spiel eine Auswahl besitzt um den Startspieler festzulegen. |
+
+| 5X   |  Muss               |  Funktional    |  Als User möchte ich, meine Optionen mit Kriterien selber bewerten, um die beste Analyse zu erreichen. |
+| 6    |  Können             |  Qualität      |  Als User möchte ich, ein sauber gestaltetes Front-end. |
+| 7X   |  Können             |  Qualität      |  Als User möchte ich, dass die gewichtung nicht mehr verändert werden kann, nachdem man sie festgelegt hat. |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | GUI: Objekte hinzufügen: |    Lidl    |         -          |
-| 1.2  | GUI: "Lidl"             |    "man drückt auf Hinzufügen"     |         "Lidl erscheint rechts im Fenster"          |
+| 1.1  | Die Webseite wurde aufgerufen | Die Schaldfläche "New Game" wurde detätigt. | Das TicTacToe wird gestartet. |
+| 1.2  | Die Webseite wurde aufgerufen |  |         "Lidl erscheint rechts im Fenster"          |
 | 2/3.1  | GUI: Kriterien hinzufügen:   |    Preis     |         -          |
 | 2/3.2  | GUI: "Gewichtung"            |    3     |        -           |
 | 2/3.3  | GUI: "Preis und 3"             |   "man drückt auf Hinzufügen"      |         "Preis (3) erscheint rechts im Fenster"           |
