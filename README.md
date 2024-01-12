@@ -61,7 +61,7 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 | 3.A  |   08.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
 | 4.A  |   08.12.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
 | 4.B  |   22.12.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
-| 4.C  |   12.01.2024  | Dorian | Projekt Abschluss | 20' |
+| 4.C  |   12.01.24  | Dorian | Projekt Abschluss | 20' |
 
 ## 3 Entscheiden
 
