@@ -52,13 +52,15 @@ In diesem Projekt haben wir ein interaktives Tic-Tac-Toe-Spiel erstellt, das es 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   24.11.23    | Dorian | Infomieren | 25' |
-| 1.B  |   24.11.23    | Dorian/Marek | Infomieren | 45' |
-| 1.C  |   24.11.23    | Marek | HTML-Teil; Infomieren| 5' |
-| 2.A  |   24.11.23    | Marek | HTML-Teil; Realiesieren| 25' |
-| 2.B  |   01.12.23    | Lorenzo/Marek | Javascript-Teil; Infomieren | 10' |
+| 1.A  |   24.11.23    | Dorian | Lokal spielen infomieren | 25' |
+| 1.B  |   24.11.23    | Dorian/Marek | Implementieren | 45' |
+| 1.C  |   24.11.23    | Marek/Cyrill/Lorenzo/Dorian | Auswerten| 5' |
+| 2.A  |   24.11.23    | Cyrill/Marek | Grafische Benutzeroberfläche informieren| 25' |
+| 2.B  |   24.11.23    | Lorenzo/Marek | Implementieren | 10' |
 | 2.C  |   01.12.23    | Lorenzo/Marek | Javascript-Teil; Realiesieren | 50' |
-| 3.A  |   08.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
+| 3.A  |   01.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
+| 3.B  |   01.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
+| 3.C  |   01.12.23    | Marek/Cyril | CSS-Teil; Infomieren | 10' |
 | 4.A  |   08.12.23    | Cyril/Marek | CSS-Teil; Realiesieren | 30'  |
 | 4.B  |   22.12.23    | Cyril/Dorian | Mahara-Portfolioeintrag | 120' |
 | 4.C  |   12.01.24  | Dorian | Projekt Abschluss | 20' |
